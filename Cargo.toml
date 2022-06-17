@@ -8,7 +8,7 @@ edition = "2018"
 rand = "0.8.4"
 
 [dependencies.windows]
-version = "0.28.0"
+version = "0.32.0"
 features = [
     "alloc",
     "Foundation_Collections",
